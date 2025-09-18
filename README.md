@@ -38,7 +38,7 @@ By integrating **ESP32 microcontrollers**, **Blynk IoT platform**, and **ESP32-C
 
 ---
 
-## 🛠 Software & Tools
+##  Software & Tools
 
 - **Arduino IDE** – To program ESP32 modules in Embedded C.
 - **Blynk IoT Platform** – For mobile control and cloud monitoring.
