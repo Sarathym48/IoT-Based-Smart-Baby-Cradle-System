@@ -1,10 +1,10 @@
-# 🍼 IoT-Based Smart Baby Cradle System
+#  IoT-Based Smart Baby Cradle System
 
 ![IoT](https://img.shields.io/badge/IoT-ESP32-blue)
 ![Cloud](https://img.shields.io/badge/App-Blynk-green)
 ![Status](https://img.shields.io/badge/Stage-Prototype%20Complete-brightgreen)
 
-## 📌 Project Overview
+##  Project Overview
 
 This project showcases an **IoT-powered Smart Baby Cradle System** designed to provide enhanced infant care with minimal human intervention. The system combines real-time monitoring, automated cradle swinging, cry detection, and hygiene alerts using a network of smart sensors and cloud-based control.
 
@@ -12,7 +12,7 @@ By integrating **ESP32 microcontrollers**, **Blynk IoT platform**, and **ESP32-C
 
 ---
 
-## 🎯 Key Objectives
+##  Key Objectives
 
 - Enable **automated swinging** of the cradle in response to baby’s cry.
 - Provide **real-time video streaming** using ESP32-CAM.
@@ -23,7 +23,7 @@ By integrating **ESP32 microcontrollers**, **Blynk IoT platform**, and **ESP32-C
 
 ---
 
-## 🔩 Hardware Components
+##  Hardware Components
 
 | Component              | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
@@ -38,7 +38,7 @@ By integrating **ESP32 microcontrollers**, **Blynk IoT platform**, and **ESP32-C
 
 ---
 
-## 🛠️ Software & Tools
+## 🛠 Software & Tools
 
 - **Arduino IDE** – To program ESP32 modules in Embedded C.
 - **Blynk IoT Platform** – For mobile control and cloud monitoring.
@@ -47,18 +47,18 @@ By integrating **ESP32 microcontrollers**, **Blynk IoT platform**, and **ESP32-C
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🎥 **Live Monitoring** – Video feed using ESP32-CAM.
-- 🎶 **Cry Detection** – Triggers swing when sound is detected.
-- 🚼 **Motion Sensing** – Detects baby's movement via PIR.
-- 💧 **Wetness Alert** – Notifies when urine is detected (Rain sensor).
-- 📱 **Mobile App Control** – Cradle can be controlled remotely via Blynk.
-- 📟 **OLED Display** – Shows system feedback like "Swinging", "Crying Detected", or "Wetness Alert".
+-  **Live Monitoring** – Video feed using ESP32-CAM.
+-  **Cry Detection** – Triggers swing when sound is detected.
+-  **Motion Sensing** – Detects baby's movement via PIR.
+-  **Wetness Alert** – Notifies when urine is detected (Rain sensor).
+-  **Mobile App Control** – Cradle can be controlled remotely via Blynk.
+-  **OLED Display** – Shows system feedback like "Swinging", "Crying Detected", or "Wetness Alert".
 
 ---
 
-## 📊 Workflow
+##  Workflow
 
 ```mermaid
 graph TD;
